@@ -48,13 +48,15 @@ colrs <- c("gray50", "tomato", "gold", "black", "skyblue")
 positive_net <- igraph::simplify(positive_plot, remove.multiple = TRUE, remove.loops = TRUE, edge.attr.comb = igraph_opt("edge.attr.comb"))
 # Step 3
 V(positive_net)$vertex.size <- .01
-V(positive_net)$label.cex <- .3
+V(positive_net)$label.cex <- .31
 V(positive_net)$label.family <- "Lato Bold"
 V(positive_net)$label.color <- "black"
-V(positive_net)$size <- .00001
+V(positive_net)$vertex.color <- "orange"
+V(positive_net)$frame.color <- "orange"
+V(positive_net)$size <- .6
 V(positive_net)$label <- wrap_strings(V(positive_net)$Nickname, 10)
 # Step 4
-E(positive_net)$width <- .7
+E(positive_net)$width <- .6
 E(positive_net)$color <- "orange"
 E(positive_net)$arrow.size <- .00005
 ```
