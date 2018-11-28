@@ -1,57 +1,57 @@
-Number,Code,Full_Name,Nickname,Ocean,Biome
-N00,BPLR,Boreal Polar Province,Boreal Polar Ocean,Atlantic,Polar
-N01,ARCT,Atlantic Arctic Province,Atlantic Arctic Ocean,Atlantic,Polar
-N02,SARC,Atlantic Subarctic Province,Atlantic Subarctic Ocean,Atlantic,Polar
-N03,NADR,North Atlantic Drift Province,North Atlantic Drift,Atlantic,Westerly Winds
-N04,GFST,Gulf Stream Province,Gulf Stream,Atlantic,Westerly Winds
-N05,NASTE,North Atlantic Subtropical East Gyral Province,Northeastern Atlantic Subtropical Gyre,Atlantic,Westerly Winds
-N06,NASTW,North Atlantic Subtropical West Gyral Province,Northwestern Atlantic Subtropical Gyre,Atlantic,Westerly Winds
-N07,MEDI,Mediterranean Sea and Black Sea Province,Mediterranean Sea and Black Sea,Atlantic,Westerly Winds
-N08,NATR,North Atlantic Tropical Gyral Province,North Atlantic Tropical Gyre,Atlantic,Trade Winds
-N09,CARB,Caribbean Province,Caribbean Sea,Atlantic,Trade Winds
-N10,WTRA,Western Tropical Atlantic Province,Western Tropical Atlantic,Atlantic,Trade Winds
-N11,ETRA,Eastern Tropical Atlantic Province,Eastern Tropical Atlantic,Atlantic,Trade Winds
-N12,SATL,South Atlantic Gyral Province,South Atlantic Gyral,Atlantic,Trade Winds
-N13,NECS,Northeast Atlantic Shelves Province,Northeastern Atlantic Shelves,Atlantic,Coastal
-N14,CNRY,Canary Current Coastal Province,Canary Current Coast,Atlantic,Coastal
-N15,GUIN,Guinea Current Coastal Province,Guinea Current Coast,Atlantic,Coastal
-N16,BENG,Benguela Current Coastal Province,Benguela Current Coast,Atlantic,Coastal
-N17,NWCS,Northwest Atlantic Shelves Province,Northwest Atlantic Shelves,Atlantic,Coastal
-N18,GUIA,Guianas Coastal Province,Guianas Coast,Atlantic,Coastal
-N19,BRAZ,Brazil Current Coastal Province,Brazil Current Coast,Atlantic,Coastal
-N20,FKLD,Southwest Atlantic Shelves Province,Southwest Atlantic Shelves,Atlantic,Coastal
-N21,MONS,Indian Monsoon Gyres Province,Indian Monsoon Gyres,Indian,Trade Winds
-N22,ISSG,Indian South Subtropical Gyre Province,Indian South Subtropical Gyre,Indian,Trade Winds
-N23,REDS,Red Sea and Arabian Gulf Province,Red Sea and Arabian Gulf,Indian,Coastal
-N24,ARAB,Northwest Arabian Sea Upwelling Province,Northwest Arabian Sea Upwelling,Indian,Coastal
-N25,INDW,Western India Coastal Province,Western India Coast,Indian,Coastal
-N26,INDE,Eastern India Coastal Province,Eastern India Coast,Indian,Coastal
-N27,EAFR,Eastern Africa Coastal Province,Eastern Africa Coast,Indian,Coastal
-N28,AUSW,Australia-Indonesia Coastal Province,Australia-Indonesia Coast,Indian,Coastal
-N29,BERSW,North Pacific Epicontinental Sea East Province,Northeastern Pacific Epicontinental Sea,Pacific,Polar
-N30,BERSE,North Pacific Epicontinental Sea West Province,Northwestern Pacific Epicontinental Sea,Pacific,Polar
-N31,PSAGE,Pacific Subarctic Gyres East Province,East Pacific Subarctic Gyres,Pacific,Westerly Winds
-N32,PSAGW,Pacific Subarctic Gyres West Province,West Pacific Subarctic Gyres,Pacific,Westerly Winds
-N33,KURO,Kuroshio Current Province,Kuroshio Current,Pacific,Westerly Winds
-N34,NPSTE,North Pacific Subtropical East Province,Northeastern Subtropical Pacific,Pacific,Westerly Winds
-N35,NPSTW,North Pacific Subtropical West Province,Northwestern Subtropical Pacific,Pacific,Westerly Winds
-N36,NPPF,Polar Front Province,Polar Front,Pacific,Westerly Winds
-N37,TASM,Tasman Sea Province,Tasman Sea,Pacific,Westerly Winds
-N38,NPTG,North Pacific Tropical Gyre Province,North Pacific Tropical Gyre,Pacific,Trade Winds
-N39,PNEC,North Pacific Equatorial Countercurrent Province,North Pacific Equatorial Countercurrent,Pacific,Trade Winds
-N40,PEQD,Pacific Equatorial Divergence Province,Pacific Equatorial Divergence,Pacific,Trade Winds
-N41,WARM,Western Pacific Warm Pool Province,Western Pacific Warm Pool,Pacific,Trade Winds
-N42,ARCH,Archipelagic Deep Basins Province,Archipelagic Deep Basins,Pacific,Trade Winds
-N43,SPSG,South Pacific Subtropical Gyre Province,South Pacific Subtropical Gyre,Pacific,Trade Winds
-N44,ALSK,Alaska Downwelling Coastal Province,Alaska Downwelling Coast,Pacific,Coastal
-N45,CALC,California Current Province,California Current,Pacific,Coastal
-N46,CAMR,Central American Coastal Province,Central American Coast,Pacific,Coastal
-N47,HUMB,Humboldt Current Coastal Province,Humboldt Current Coast,Pacific,Coastal
-N48,CHIN,China Sea Coastal Province,China Sea Coast,Pacific,Coastal
-N49,SUND,Sunda-Arafura Shelves Province,Sunda-Arafura Shelves,Pacific,Coastal
-N50,AUSE,East Australian Coastal Province,Eastern Australian Coast,Pacific,Coastal
-N51,NEWZ,New Zealand Coastal Province,New Zealand Coast,Pacific,Coastal
-N52,SSTC,South Subtropical Convergence Province,South Subtropical Convergence,Southern,Westerly Winds
-N53,SANT,Subantarctic Water Ring Province,Subantarctic Water Ring,Southern,Westerly Winds
-N54,ANTA,Antarctic Province,Antarctic Ocean,Southern,Polar
-N55,APLR,Austral Polar Province,Austral Polar Ocean,Southern,Polar
+Number,Code,Full_Name,Nickname,Ocean,Biome,Number
+N13,NECS,Northeast Atlantic Shelves Province,Northeastern Atlantic Shelves,Atlantic,Coastal,1
+N14,CNRY,Canary Current Coastal Province,Canary Current Coast,Atlantic,Coastal,1
+N15,GUIN,Guinea Current Coastal Province,Guinea Current Coast,Atlantic,Coastal,1
+N16,BENG,Benguela Current Coastal Province,Benguela Current Coast,Atlantic,Coastal,1
+N17,NWCS,Northwest Atlantic Shelves Province,Northwestern Atlantic Shelves,Atlantic,Coastal,1
+N18,GUIA,Guianas Coastal Province,Guianas Coast,Atlantic,Coastal,1
+N19,BRAZ,Brazil Current Coastal Province,Brazil Current Coast,Atlantic,Coastal,1
+N20,FKLD,Southwest Atlantic Shelves Province,Southwest Atlantic Shelves,Atlantic,Coastal,1
+N23,REDS,Red Sea and Arabian Gulf Province,Red Sea and Arabian Gulf,Indian,Coastal,1
+N24,ARAB,Northwest Arabian Sea Upwelling Province,Northwest Arabian Sea Upwelling,Indian,Coastal,1
+N25,INDW,Western India Coastal Province,Western India Coast,Indian,Coastal,1
+N26,INDE,Eastern India Coastal Province,Eastern India Coast,Indian,Coastal,1
+N27,EAFR,Eastern Africa Coastal Province,Eastern Africa Coast,Indian,Coastal,1
+N28,AUSW,Australia-Indonesia Coastal Province,Australia-Indonesia Coast,Indian,Coastal,1
+N44,ALSK,Alaska Downwelling Coastal Province,Alaska Downwelling Coast,Pacific,Coastal,1
+N45,CALC,California Current Province,California Current,Pacific,Coastal,1
+N46,CAMR,Central American Coastal Province,Central American Coast,Pacific,Coastal,1
+N47,HUMB,Humboldt Current Coastal Province,Humboldt Current Coast,Pacific,Coastal,1
+N48,CHIN,China Sea Coastal Province,China Sea Coast,Pacific,Coastal,1
+N49,SUND,Sunda-Arafura Shelves Province,Sunda-Arafura Shelves,Pacific,Coastal,1
+N50,AUSE,East Australian Coastal Province,Eastern Australian Coast,Pacific,Coastal,1
+N51,NEWZ,New Zealand Coastal Province,New Zealand Coast,Pacific,Coastal,1
+N00,BPLR,Boreal Polar Province,Boreal Arctic,Atlantic,Polar,2
+N01,ARCT,Atlantic Arctic Province,Atlantic Arctic,Atlantic,Polar,2
+N02,SARC,Atlantic Subarctic Province,Atlantic Subarctic,Atlantic,Polar,2
+N29,BERSW,North Pacific Epicontinental Sea East Province,Northeastern Pacific Epicontinental Sea,Pacific,Polar,2
+N30,BERSE,North Pacific Epicontinental Sea West Province,Northwestern Pacific Epicontinental Sea,Pacific,Polar,2
+N54,ANTA,Antarctic Province,Southern Polar Front,Southern,Polar,2
+N55,APLR,Austral Polar Province,Antarctic Coast,Southern,Polar,2
+N08,NATR,North Atlantic Tropical Gyral Province,North Atlantic Tropical Gyre,Atlantic,Trade Winds,3
+N09,CARB,Caribbean Province,Caribbean Sea,Atlantic,Trade Winds,3
+N10,WTRA,Western Tropical Atlantic Province,Western Tropical Atlantic,Atlantic,Trade Winds,3
+N11,ETRA,Eastern Tropical Atlantic Province,Eastern Tropical Atlantic,Atlantic,Trade Winds,3
+N12,SATL,South Atlantic Gyral Province,South Atlantic Gyre,Atlantic,Trade Winds,3
+N21,MONS,Indian Monsoon Gyres Province,Indian Monsoon Gyres,Indian,Trade Winds,3
+N22,ISSG,Indian South Subtropical Gyre Province,Indian South Subtropical Gyre,Indian,Trade Winds,3
+N38,NPTG,North Pacific Tropical Gyre Province,North Pacific Tropical Gyre,Pacific,Trade Winds,3
+N39,PNEC,North Pacific Equatorial Countercurrent Province,North Pacific Equatorial Countercurrent,Pacific,Trade Winds,3
+N40,PEQD,Pacific Equatorial Divergence Province,Pacific Equatorial Divergence,Pacific,Trade Winds,3
+N41,WARM,Western Pacific Warm Pool Province,Western Pacific Warm Pool,Pacific,Trade Winds,3
+N42,ARCH,Archipelagic Deep Basins Province,Archipelagic Deep Basins,Pacific,Trade Winds,3
+N43,SPSG,South Pacific Subtropical Gyre Province,South Pacific Subtropical Gyre,Pacific,Trade Winds,3
+N03,NADR,North Atlantic Drift Province,North Atlantic Drift,Atlantic,Westerly Winds,4
+N04,GFST,Gulf Stream Province,Gulf Stream,Atlantic,Westerly Winds,4
+N05,NASTE,North Atlantic Subtropical East Gyral Province,Northeastern Atlantic Subtropical Gyre,Atlantic,Westerly Winds,4
+N06,NASTW,North Atlantic Subtropical West Gyral Province,Northwestern Atlantic Subtropical Gyre,Atlantic,Westerly Winds,4
+N07,MEDI,Mediterranean Sea and Black Sea Province,Mediterranean Sea and Black Sea,Atlantic,Westerly Winds,4
+N31,PSAGE,Pacific Subarctic Gyres East Province,East Pacific Subarctic Gyres,Pacific,Westerly Winds,4
+N32,PSAGW,Pacific Subarctic Gyres West Province,West Pacific Subarctic Gyres,Pacific,Westerly Winds,4
+N33,KURO,Kuroshio Current Province,Kuroshio Current,Pacific,Westerly Winds,4
+N34,NPSTE,North Pacific Subtropical East Province,Northeastern Subtropical Pacific,Pacific,Westerly Winds,4
+N35,NPSTW,North Pacific Subtropical West Province,Northwestern Subtropical Pacific,Pacific,Westerly Winds,4
+N36,NPPF,Polar Front Province,Northern Polar Front,Pacific,Westerly Winds,4
+N37,TASM,Tasman Sea Province,Tasman Sea,Pacific,Westerly Winds,4
+N52,SSTC,South Subtropical Convergence Province,Southern Subtropical Convergence,Southern,Westerly Winds,4
+N53,SANT,Subantarctic Water Ring Province,Subantarctic Water Ring,Southern,Westerly Winds,4

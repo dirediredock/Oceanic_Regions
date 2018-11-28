@@ -42,6 +42,7 @@ wrap_strings <- function(vector_of_strings, width) {
     }
   ))
 }
+colrs <- c("gray50", "tomato", "gold", "black", "skyblue")
 # Step 2
 positive_net <- igraph::simplify(positive_plot, remove.multiple = TRUE, remove.loops = TRUE, edge.attr.comb = igraph_opt("edge.attr.comb"))
 # Step 3
@@ -49,7 +50,7 @@ V(positive_net)$vertex.size <- .01
 V(positive_net)$label.cex <- .3
 V(positive_net)$label.family <- "Lato Bold"
 V(positive_net)$label.color <- "black"
-V(positive_net)$size <- .0001
+V(positive_net)$size <- .00001
 V(positive_net)$label <- wrap_strings(V(positive_net)$Nickname, 10)
 # Step 4
 E(positive_net)$width <- .7
